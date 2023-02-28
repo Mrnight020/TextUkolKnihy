@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\bin\Debug\UkolKnihy.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\bin\Debug\UkolKnihy.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\bin\Debug\UkolKnihy.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\UkolKnihy\UkolKnihy\obj\Debug\UkolKnihy.Form1.resources

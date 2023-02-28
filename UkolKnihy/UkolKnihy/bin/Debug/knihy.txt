@@ -1,0 +1,3 @@
+Hobit;Tolkien;ExecutablePath;Fantasy;21.10.1937
+Harry Potter;Rowlingová;ExecutablePath;Fantasy;26.6.1997
+Velký Gatzby;Fitzgerald;ExecutablePath;Romantika;10.4.1925
